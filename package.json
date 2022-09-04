@@ -15,7 +15,8 @@
   "devDependencies": {
     "cssnano": "^5.1.13",
     "postcss": "^8.4.16",
-    "postcss-cli": "^10.0.0"
+    "postcss-cli": "^10.0.0",
+    "prettier": "2.7.1"
   },
   "scripts": {
     "dev": "NODE_ENV=development npx tailwindcss -i ./style/tailwind.css -o ./style/style.css --watch",
