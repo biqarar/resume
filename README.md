@@ -1,6 +1,6 @@
-# MrAdib Resume
+# RezaMohiti Resume
 
-The Resume of Javad Adib
+The Resume of Reza Mohiti
 
 I want to create new resume and decide to create this repository to share it with you!
 
