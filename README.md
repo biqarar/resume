@@ -1,6 +1,6 @@
-# RezaMohiti Resume
+# MohammadRezaMohiti Resume
 
-The Resume of Reza Mohiti
+The Resume of MohammadReza Mohiti
 
 I want to create new resume and decide to create this repository to share it with you!
 

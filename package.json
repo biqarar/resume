@@ -1,16 +1,16 @@
 {
-  "name": "RezaMohitiResume",
+  "name": "MohammadRezaMohitiResume",
   "version": "1.1.0",
   "description": "",
   "dependencies": {
     "tailwindcss": "^3.1.8"
   },
   "keywords": [
-    "RezaMohiti",
+    "MohammadRezaMohiti",
     "tailwind",
     "resume"
   ],
-  "author": "Reza Mohiti",
+  "author": "MohammadReza Mohiti",
   "license": "MIT",
   "devDependencies": {
     "cssnano": "^5.1.13",
